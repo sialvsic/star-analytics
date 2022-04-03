@@ -1,0 +1,23 @@
+{
+  "name": "star-analytics",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "src/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sialvsic/star-analytics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sialvsic/star-analytics/issues"
+  },
+  "homepage": "https://github.com/sialvsic/star-analytics#readme"
+}
