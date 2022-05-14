@@ -52,7 +52,7 @@ function initClassComponent(vnode) {
 export function initVNode(vnode) {
   console.log('vnode', vnode);
 
-  //初始化Vnode
+  //初始化vnode
   const { vType } = vnode;
 
   if (!vType) {

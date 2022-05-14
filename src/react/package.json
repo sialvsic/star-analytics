@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev1": "parcel ./basic/index.html",
-    "dev2": "parcel ./advanced/index.html"
+    "dev2": "parcel ./advanced/index.html",
+    "dev3": "parcel ./dom-diff/index.html"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "keywords": [],
