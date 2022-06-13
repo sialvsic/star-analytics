@@ -31,3 +31,7 @@ yarn workspace webpack add webpack webpack-cli
 ```
 yarn workspace react-redux-analyze add @sialvsic/redux
 ```
+
+```
+yarn workspace redux-analyze add redux redux-logger redux-thunk
+```

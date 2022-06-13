@@ -7,6 +7,7 @@
 - babel
 - fullpage
 - react
+- react-redux
 - redux
 - styled-component
 - webpack

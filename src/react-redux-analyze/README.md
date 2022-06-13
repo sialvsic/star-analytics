@@ -52,3 +52,9 @@ P.S could install from local by adding this line in the .npmrc file
 ```bash
 registry=http://localhost:4873
 ```
+
+## 发布
+
+```
+@sialvsic/react-redux 0.0.2
+```
