@@ -1,0 +1,21 @@
+{
+  "name": "styled-components",
+  "version": "1.0.0",
+  "description": "这是一个学习styled component 原理的代码库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5"
+  },
+  "dependencies": {
+    "parcel": "^2.6.0",
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
+  }
+}

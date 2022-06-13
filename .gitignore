@@ -3,3 +3,8 @@ node_modules/
 .parcel-cache/
 .cache/
 yarn-error.log
+.vscode
+temp.js
+temp.ts
+temp.html
+.DS_Store
