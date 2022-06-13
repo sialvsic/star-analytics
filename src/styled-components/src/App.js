@@ -1,9 +1,15 @@
-import React, { Component } from "react";
+import React from "react";
+import StyledComponent from "./StyledComponent";
+import NewStyledComponent from "./NewStyledComponent";
+import "./css/index.scss";
 
-class App extends Component {
-  render() {
-    return <div>ccc</div>;
-  }
-}
+const App = () => (
+  <div>
+    <p>implement by styled component</p>
+    <StyledComponent />
+    <p>implement by us</p>
+    <NewStyledComponent />
+  </div>
+);
 
 export default App;
