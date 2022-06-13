@@ -1,0 +1,25 @@
+{
+  "name": "webpack-analyze",
+  "version": "1.0.0",
+  "description": "这是一个学习webpack 原理的代码库",
+  "main": "index.js",
+  "bin": {
+    "xwebpack": "./scripts/webpack.js"
+  },
+  "scripts": {
+    "build": "webpack",
+    "build:new": "xwebpack",
+    "build:wp": "node ./scripts/webpack.js",
+    "build:wp1": "node ./scripts/webpack1.js",
+    "build:wp2": "node ./scripts/webpack2.js",
+    "build:wp3": "node ./scripts/webpack3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
