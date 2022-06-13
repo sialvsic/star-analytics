@@ -14,7 +14,8 @@ function getDestinationPosition(element) {
   var elementHeight = element.offsetHeight;
   var elementTop = element.offsetTop;
 
-  //top of the desination will be at the top of the viewport
+  console.log("first", utils.getWindowHeight());
+  //top of the destination will be at the top of the viewport
   var position = elementTop;
   var isScrollingDown = elementTop > state.previousDestTop;
   var sectionBottom = position - utils.getWindowHeight() + elementHeight;

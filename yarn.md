@@ -1,35 +1,25 @@
 ## koa workspace 使用
 
-example: 
+## 根
 
 ```
-yarn workspace babel add @babel/core @babel/cli
+yarn add -W react react-dom parcel @babel/core @babel/cli @babel/preset-react @babel/preset-env
+yarn add -W -D @types/react @types/react-dom
+
 ```
+
+## 子workspace
+
+example: 
 
 ```
 yarn workspace clean
 ```
 
 ```
-yarn workspace react add parcel-bundler
-yarn workspace react add @babel/preset-react @babel/plugin-proposal-class-properties
-yarn workspace react add @babel/core
+yarn workspace react add  @babel/plugin-proposal-class-properties
 ```
-
-```
-yarn workspace fullpage add parcel
-yarn workspace fullpage add @babel/core
-yarn workspace fullpage add react
-yarn workspace fullpage add react-dom
-
-yarn workspace fullpage remove parcel-bundler
-```
-
 
 ```
 yarn workspace styled-components add styled-components
-yarn workspace styled-components add parcel
-yarn workspace styled-components add react
-yarn workspace styled-components add react-dom
-yarn workspace styled-components add @types/react @types/react-dom -D
 ```

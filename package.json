@@ -17,5 +17,18 @@
   "bugs": {
     "url": "https://github.com/sialvsic/star-analytics/issues"
   },
-  "homepage": "https://github.com/sialvsic/star-analytics#readme"
+  "homepage": "https://github.com/sialvsic/star-analytics#readme",
+  "dependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "parcel": "^2.6.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5"
+  }
 }
