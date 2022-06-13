@@ -1,5 +1,5 @@
 {
-  "name": "webpack-analyze",
+  "name": "webpack-analyze-analyze",
   "version": "1.0.0",
   "description": "这是一个学习webpack 原理的代码库",
   "main": "index.js",

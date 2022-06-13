@@ -27,3 +27,7 @@ yarn workspace styled-components add styled-components
 ```
 yarn workspace webpack add webpack webpack-cli
 ```
+
+```
+yarn workspace react-redux-analyze add @sialvsic/redux
+```

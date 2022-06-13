@@ -1791,6 +1791,11 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
+"@sialvsic/redux@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@sialvsic/redux/-/redux-0.1.2.tgz#ebf48efedd1a1c2fa79131c65aeaf1dca50bd4b1"
+  integrity sha512-n9SbdrzMr6aSMiSHZzlJsJ8EC3X6Q7PmJPTdmhkF3x4w+mUm+6TzeoWGGkxnOZKBQizWw9bOllN59fi3M9qCtw==
+
 "@swc/helpers@^0.3.15":
   version "0.3.17"
   resolved "https://registry.yarnpkg.com/@swc/helpers/-/helpers-0.3.17.tgz#7c1b91f43c77e2bba99492162a498d465ef253d5"
