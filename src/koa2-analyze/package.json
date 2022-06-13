@@ -1,0 +1,17 @@
+{
+  "name": "koa2-analyze",
+  "version": "1.0.0",
+  "description": "This repo aim to analyze koa2 and DIY it.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}

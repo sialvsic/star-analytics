@@ -35,3 +35,7 @@ yarn workspace react-redux-analyze add @sialvsic/redux
 ```
 yarn workspace redux-analyze add redux redux-logger redux-thunk
 ```
+
+```
+yarn workspace koa2-analyze add koa
+```
